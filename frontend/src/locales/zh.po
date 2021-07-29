@@ -1158,7 +1158,7 @@ msgstr "主色调"
 
 #: src/dialog/photo/labels.vue:32
 msgid "manual"
-msgstr "手册"
+msgstr "手动"
 
 #: src/dialog/account/edit.vue:56
 msgid "Manual Upload"
